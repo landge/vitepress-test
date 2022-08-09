@@ -10,5 +10,5 @@ ok, hva nå??
 ok
 
 .......
-
+lslssøkølkj
 ----
