@@ -2,5 +2,5 @@
 is this working or not?
 I need more bandwith ;-)
 Fun
-[[Hello VitePress]]
+This is a link to [[Hello VitePress]]
 
